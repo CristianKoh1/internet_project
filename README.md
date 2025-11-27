@@ -1,6 +1,6 @@
-# Moloch App
+# Proyecto internet
 
-Este es un proyecto de Moloch.
+Este es un proyecto de prueba para una empresa de internet
 
 ## Patrón de diseño
 
