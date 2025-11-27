@@ -1,0 +1,4 @@
+enum ApiResponseModalType {
+  expiredToken,
+  underMaintenance,
+}
